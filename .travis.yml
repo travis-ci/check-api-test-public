@@ -1,0 +1,9 @@
+language: ruby
+
+install: skip
+
+script: skip
+
+notifications:
+  email: false
+  
