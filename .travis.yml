@@ -6,4 +6,3 @@ script: skip
 
 notifications:
   email: false
-  
